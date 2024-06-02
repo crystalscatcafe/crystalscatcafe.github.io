@@ -2,8 +2,6 @@
 layout: post
 title: "Welcome to Crystals Cat Cafe"
 author: "Cat Lady"
-categories: documentation
-tags: [documentation, sample]
 image: f1.jpg
 ---
 
