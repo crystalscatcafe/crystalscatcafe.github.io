@@ -11,8 +11,8 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "Crystals Cat Cafe"
-description: "Crystals Cat Cafe"
-author: "Paul Le"
+description: "This cafe is in the suburbs of Adelaide, msg me for to schedule a visit!"
+author: "Cat Ladeh"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
